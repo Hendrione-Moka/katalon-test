@@ -42,22 +42,10 @@
       <testCaseId>Test Cases/Add Quote/Add Quote With Color Yellow</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>f39be6e0-2470-4b60-b9bb-53cca62dd649</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Add Quote/Click Powered By Link</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
       <guid>fcfe7ff9-1646-408f-a25e-e7a29ee7aa26</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Table View/Hover Cyan Button to Hide Table</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>70a1ff67-7c15-454e-ae51-552b59e6b8fc</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Table View/Click Yellow Button to Show Table (Wait 10 sec)</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>8a39c7de-5add-4ebf-b93e-fcba56319342</guid>
